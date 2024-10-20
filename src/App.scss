@@ -1,0 +1,413 @@
+$gray: #666666;
+$primaryBlue: #5500fb;
+
+@mixin transition {
+  transition: all 0.25s ease 0s;
+}
+
+html,
+body {
+  font-family: "OpenSauceOneRegular", -apple-system, BlinkMacSystemFont,
+    sans-serif, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue" !important;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  image-rendering: -moz-crisp-edges;
+  @include transition;
+}
+
+input,
+button,
+textarea {
+  font-size: inherit;
+  font-family: inherit;
+  -webkit-appearance: none;
+}
+
+.container {
+  width: 90%;
+  max-width: 1920px;
+  margin: 0 auto;
+  margin-top: 40px;
+  height: 100vh;
+}
+
+.within {
+  background: rgba(0, 255, 132, 0.2);
+}
+
+// .outside {
+//   background: rgba(248, 38, 91, 0.25);
+// }
+
+.header {
+  font-family: "OpenSauceOneSemiBold";
+  font-size: 28px;
+}
+
+.header-2 {
+  font-size: 20px;
+  font-family: "OpenSauceOneMedium";
+  color: gray;
+}
+
+.env-row {
+  margin-top: 4px;
+  span {
+    color: hsl(250, 95%, 76.8%);
+    background-color: hsl(253, 37%, 18.4%);
+    font-family: monospace;
+    padding: 4px 6px;
+    border-radius: 4px;
+  }
+}
+
+.code {
+  color: hsl(250, 95%, 76.8%);
+  background-color: hsl(253, 37%, 18.4%);
+  font-family: monospace;
+  padding: 4px 6px;
+  border-radius: 4px;
+}
+
+a,
+.blue {
+  text-decoration: none !important;
+  color: #5500fb !important;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.subtitle {
+  color: $gray !important;
+  margin-top: 12px;
+}
+
+.subtitle-2 {
+  font-family: "OpenSauceOneSemiBold";
+  margin-top: 12px;
+  font-size: 16px;
+}
+
+th {
+  font-weight: normal !important;
+  font-family: "OpenSauceOneSemiBold";
+}
+
+.positive {
+  color: rgba(0, 204, 136, 1) !important;
+}
+
+.negative {
+  color: rgba(227, 59, 66, 1) !important;
+}
+
+.gray {
+  font-family: "OpenSauceOneRegular";
+}
+
+.copy {
+  text-decoration: underline;
+
+  &:hover {
+    color: #5500fb !important;
+    cursor: pointer;
+  }
+
+  margin-bottom: 12px;
+}
+
+.non-hover-col {
+  &:hover {
+    cursor: text;
+    color: black !important;
+  }
+}
+
+.orderbook {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bids-table,
+.asks-table {
+  width: 49%;
+  display: flex;
+  flex-direction: column;
+}
+
+.bid-row,
+.ask-row {
+  display: flex;
+  width: 100%;
+  font-family: monospace !important;
+
+  span {
+    width: 33%;
+  }
+
+  &:hover {
+    background: rgba(211, 211, 211, 0.3);
+  }
+}
+
+.first-row {
+  &:hover {
+    background: unset;
+    cursor: unset;
+  }
+}
+
+.medium-font {
+  font-family: "OpenSauceOneMedium", -apple-system, BlinkMacSystemFont,
+    sans-serif, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue" !important;
+}
+
+.first-row {
+  border-bottom: 1px solid lightgray;
+  font-family: "OpenSauceOneMedium", -apple-system, BlinkMacSystemFont,
+    sans-serif, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue" !important;
+}
+
+.bid-row {
+  text-align: right;
+}
+
+.ask-row {
+  text-align: left;
+}
+
+.bid-price {
+  color: #27ad75;
+}
+
+.ask-price {
+  color: #e05b66;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.ReactModal__Overlay {
+  z-index: 100000 !important;
+}
+
+thead {
+  font-size: 14px;
+}
+
+tbody {
+  border-top: none;
+}
+.table > :not(:first-child) {
+  border-top: none !important;
+}
+
+.active {
+  color: #5500fb !important;
+}
+
+.active-2 {
+  color: #5500fb !important;
+  font-size: 18px;
+}
+
+.input {
+  padding: 12px 20px;
+  border-radius: 4px;
+  box-shadow: none;
+  display: flex;
+  align-items: center;
+  outline: none;
+  width: 100%;
+  font-weight: 400;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  border: 1px solid rgba(211, 211, 211, 0.5);
+
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.05);
+
+  &:hover {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2.5px);
+    border: 1px solid $primaryBlue !important;
+  }
+
+  &:hover,
+  &:focus,
+  &:active {
+    border: 1px solid rgba(85, 0, 251, 1);
+  }
+
+  &::placeholder {
+    color: lightgray;
+  }
+}
+
+.small-gray {
+  color: lightgray !important;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.badge-row {
+  display: flex;
+  align-items: center;
+  margin-top: 8px;
+  font-family: "OpenSauceOneSemiBold";
+  margin-bottom: 4px;
+}
+
+.input-row {
+  display: flex;
+  align-items: center;
+}
+
+tr {
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.modal-market-rates {
+  margin-bottom: 20px;
+}
+
+.btn {
+  padding: 12px 12px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  background: black !important;
+  color: white !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  outline: none !important;
+  border: 1px solid black !important;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.05);
+  @include transition;
+
+  &:hover {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    border: 1px solid $primaryBlue !important;
+  }
+}
+
+.submit-btn {
+  padding: 12px 20px;
+  margin-left: 24px;
+  border-radius: 4px;
+  // font-family: "OpenSauceOneSemiBold";
+  background: black;
+  width: 200px;
+  color: white !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  outline: none !important;
+  border: 1px solid black !important;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.05);
+
+  &:hover {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2.5px);
+    cursor: pointer;
+    border: 1px solid $primaryBlue !important;
+  }
+}
+
+.disabled {
+  opacity: 0.5;
+}
+
+.created-by {
+  color: $gray !important;
+  margin-right: 8px;
+}
+
+.usd-pair {
+  font-family: "OpenSauceOneSemiBold";
+  text-decoration: underline;
+  color: blue !important;
+}
+
+.made-by {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: max-content;
+  padding: 8px 12px 8px;
+  border-radius: 9999px;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.05);
+
+  &:hover {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2.5px);
+    cursor: pointer;
+  }
+
+  * &:hover {
+    text-decoration: none !important;
+  }
+}
+
+.avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 100%;
+  margin-right: 12px;
+  background: rgb(232, 235, 255);
+}
+
+.new-label {
+  background: rgba(0, 93, 255, 0.05);
+  color: #005dff !important;
+  padding: 5px 6px;
+  margin: 6px;
+  font-size: 12px;
+  font-weight: 500;
+  border-radius: 4px;
+  text-transform: uppercase;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.number-rank {
+  color: lightgray !important;
+  font-size: 12px;
+  margin-right: 4px;
+}
+
+.raw-output {
+  padding: 40px;
+  border: 1px solid rgba(211, 211, 211, 0.5);
+  border-radius: 4px;
+  margin-top: 12px;
+}
+
+.state-of-products {
+  margin-top: 16px;
+  font-family: "OpenSauceOneSemiBold";
+}

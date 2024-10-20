@@ -1,0 +1,1227 @@
+[
+  {
+    "ticker": "00",
+    "name": "00 Token",
+    "cg_id": "zer0zer0"
+  },
+  {
+    "ticker": "1INCH",
+    "name": "1Inch",
+    "cg_id": "1inch"
+  },
+  {
+    "ticker": "AAVE",
+    "name": "Aave",
+    "cg_id": "aave"
+  },
+  {
+    "ticker": "ABT",
+    "name": "Arcblock",
+    "cg_id": "arcblock"
+  },
+  {
+    "ticker": "ACH",
+    "name": "Alchemy Pay",
+    "cg_id": "alchemy-pay"
+  },
+  {
+    "ticker": "ADA",
+    "name": "Cardano",
+    "cg_id": "cardano"
+  },
+  {
+    "ticker": "AERGO",
+    "name": "Aergo",
+    "cg_id": "aergo"
+  },
+  {
+    "ticker": "AGLD",
+    "name": "Adventure Gold",
+    "cg_id": "adventure-gold"
+  },
+  {
+    "ticker": "AIOZ",
+    "name": "Aioz Network",
+    "cg_id": "aioz-network"
+  },
+  {
+    "ticker": "ALCX",
+    "name": "Alchemix",
+    "cg_id": "alchemix"
+  },
+  {
+    "ticker": "ALEPH",
+    "name": "Aleph.im v2",
+    "cg_id": "aleph"
+  },
+  {
+    "ticker": "ALGO",
+    "name": "Algorand",
+    "cg_id": "algorand"
+  },
+  {
+    "ticker": "ALICE",
+    "name": "My Neighbor Alice",
+    "cg_id": "my-neighbor-alice"
+  },
+  {
+    "ticker": "AMP",
+    "name": "Amp",
+    "cg_id": "amp-token"
+  },
+  {
+    "ticker": "ANKR",
+    "name": "Ankr",
+    "cg_id": "ankr"
+  },
+  {
+    "ticker": "ANT",
+    "name": "Aragon",
+    "cg_id": "aragon"
+  },
+  {
+    "ticker": "APE",
+    "name": "ApeCoin",
+    "cg_id": "apecoin"
+  },
+  {
+    "ticker": "API3",
+    "name": "API3",
+    "cg_id": "api3"
+  },
+  {
+    "ticker": "APT",
+    "name": "Aptos",
+    "cg_id": "aptos"
+  },
+  {
+    "ticker": "ARPA",
+    "name": "ARPA",
+    "cg_id": "arpa"
+  },
+  {
+    "ticker": "ASM",
+    "name": "Assemble Protocol",
+    "cg_id": "assemble-protocol"
+  },
+  {
+    "ticker": "AST",
+    "name": "AirSwap",
+    "cg_id": "airswap"
+  },
+  {
+    "ticker": "ATA",
+    "name": "Automata Network",
+    "cg_id": "automata"
+  },
+  {
+    "ticker": "ATOM",
+    "name": "Cosmos",
+    "cg_id": "cosmos"
+  },
+  {
+    "ticker": "AUCTION",
+    "name": "Bounce Token",
+    "cg_id": "auction"
+  },
+  {
+    "ticker": "AURORA",
+    "name": "Aurora",
+    "cg_id": "aurora-near"
+  },
+  {
+    "ticker": "AVAX",
+    "name": "Avalanche",
+    "cg_id": "avalanche-2"
+  },
+  {
+    "ticker": "AVT",
+    "name": "Aventus",
+    "cg_id": "aventus"
+  },
+  {
+    "ticker": "AXS",
+    "name": "Axie Infinity",
+    "cg_id": "axie-infinity"
+  },
+  {
+    "ticker": "BADGER",
+    "name": "Badger DAO",
+    "cg_id": "badger-dao"
+  },
+  {
+    "ticker": "BAL",
+    "name": "Balancer",
+    "cg_id": "balancer"
+  },
+  {
+    "ticker": "BAND",
+    "name": "Band Protocol",
+    "cg_id": "band-protocol"
+  },
+  {
+    "ticker": "BAT",
+    "name": "Basic Attention Token",
+    "cg_id": "basic-attention-token"
+  },
+  {
+    "ticker": "BCH",
+    "name": "Bitcoin Cash",
+    "cg_id": "bitcoin-cash"
+  },
+  {
+    "ticker": "BICO",
+    "name": "Biconomy",
+    "cg_id": "biconomy"
+  },
+  {
+    "ticker": "BIT",
+    "name": "BitDAO",
+    "cg_id": "bitdao"
+  },
+  {
+    "ticker": "BLZ",
+    "name": "Bluzelle",
+    "cg_id": "bluzelle"
+  },
+  {
+    "ticker": "BNT",
+    "name": "Bancor",
+    "cg_id": "bancor"
+  },
+  {
+    "ticker": "BOBA",
+    "name": "Boba Network",
+    "cg_id": "boba-network"
+  },
+  {
+    "ticker": "BOND",
+    "name": "BarnBridge",
+    "cg_id": "barnbridge"
+  },
+  {
+    "ticker": "BTC",
+    "name": "Bitcoin",
+    "cg_id": "bitcoin"
+  },
+  {
+    "ticker": "BTRST",
+    "name": "Braintrust",
+    "cg_id": "braintrust"
+  },
+  {
+    "ticker": "BUSD",
+    "name": "Binance USD",
+    "cg_id": "binance-usd"
+  },
+  {
+    "ticker": "C98",
+    "name": "Coin98",
+    "cg_id": "coin98"
+  },
+  {
+    "ticker": "CBETH",
+    "name": "Coinbase Wrapped Staked ETH",
+    "cg_id": "coinbase-wrapped-staked-eth"
+  },
+  {
+    "ticker": "CELR",
+    "name": "Celer Network",
+    "cg_id": "celer-network"
+  },
+  {
+    "ticker": "CGLD",
+    "name": "Celo",
+    "cg_id": "celo"
+  },
+  {
+    "ticker": "CHZ",
+    "name": "Chiliz",
+    "cg_id": "chiliz"
+  },
+  {
+    "ticker": "CLV",
+    "name": "Clover Finance",
+    "cg_id": "clover-finance"
+  },
+  {
+    "ticker": "COMP",
+    "name": "Compound",
+    "cg_id": "compound-governance-token"
+  },
+  {
+    "ticker": "COTI",
+    "name": "COTI",
+    "cg_id": "coti"
+  },
+  {
+    "ticker": "COVAL",
+    "name": "Circuits of Value",
+    "cg_id": "circuits-of-value"
+  },
+  {
+    "ticker": "CRO",
+    "name": "Crypto.com Coin",
+    "cg_id": "crypto-com-chain"
+  },
+  {
+    "ticker": "CRPT",
+    "name": "Crypterium",
+    "cg_id": "crypterium"
+  },
+  {
+    "ticker": "CRV",
+    "name": "Curve DAO Token",
+    "cg_id": "curve-dao-token"
+  },
+  {
+    "ticker": "CTSI",
+    "name": "Cartesi",
+    "cg_id": "cartesi"
+  },
+  {
+    "ticker": "CTX",
+    "name": "Cryptex Finance",
+    "cg_id": "cryptex-finance"
+  },
+  {
+    "ticker": "CVC",
+    "name": "Civic",
+    "cg_id": "civic"
+  },
+  {
+    "ticker": "CVX",
+    "name": "Convex Finance",
+    "cg_id": "convex-finance"
+  },
+  {
+    "ticker": "DAI",
+    "name": "Dai",
+    "cg_id": "dai"
+  },
+  {
+    "ticker": "DAR",
+    "name": "Mines of Dalarnia",
+    "cg_id": "mines-of-dalarnia"
+  },
+  {
+    "ticker": "DASH",
+    "name": "Dash",
+    "cg_id": "dash"
+  },
+  {
+    "ticker": "DDX",
+    "name": "DerivaDAO",
+    "cg_id": "derivadao"
+  },
+  {
+    "ticker": "DESO",
+    "name": "Decentralized Social",
+    "cg_id": "deso"
+  },
+  {
+    "ticker": "DEXT",
+    "name": "DEXTools",
+    "cg_id": "dextools"
+  },
+  {
+    "ticker": "DIA",
+    "name": "DIA",
+    "cg_id": "dia-data"
+  },
+  {
+    "ticker": "DNT",
+    "name": "district0x",
+    "cg_id": "district0x"
+  },
+  {
+    "ticker": "DOGE",
+    "name": "Dogecoin",
+    "cg_id": "dogecoin"
+  },
+  {
+    "ticker": "DOT",
+    "name": "Polkadot",
+    "cg_id": "polkadot"
+  },
+  {
+    "ticker": "DREP",
+    "name": "Drep",
+    "cg_id": "drep-new"
+  },
+  {
+    "ticker": "DYP",
+    "name": "DeFi Yield Protocol",
+    "cg_id": "defi-yield-protocol"
+  },
+  {
+    "ticker": "EGLD",
+    "name": "MultiversX (Elrond)",
+    "cg_id": "elrond-erd-2"
+  },
+  {
+    "ticker": "ELA",
+    "name": "Elastos",
+    "cg_id": "elastos"
+  },
+  {
+    "ticker": "ENJ",
+    "name": "Enjin Coin",
+    "cg_id": "enjincoin"
+  },
+  {
+    "ticker": "ENS",
+    "name": "Ethereum Name Service",
+    "cg_id": "ethereum-name-service"
+  },
+  {
+    "ticker": "EOS",
+    "name": "EOS",
+    "cg_id": "eos"
+  },
+  {
+    "ticker": "ERN",
+    "name": "Ethernity Chain",
+    "cg_id": "ethernity-chain"
+  },
+  {
+    "ticker": "ETC",
+    "name": "Ether Classic",
+    "cg_id": "ethereum-classic"
+  },
+  {
+    "ticker": "ETH",
+    "name": "Ether",
+    "cg_id": "ethereum"
+  },
+  {
+    "ticker": "FARM",
+    "name": "Harvest Finance",
+    "cg_id": "harvest-finance"
+  },
+  {
+    "ticker": "FET",
+    "name": "Fetch.ai",
+    "cg_id": "fetch-ai"
+  },
+  {
+    "ticker": "FIDA",
+    "name": "Bonfida",
+    "cg_id": "bonfida"
+  },
+  {
+    "ticker": "FIL",
+    "name": "Filecoin",
+    "cg_id": "filecoin"
+  },
+  {
+    "ticker": "FIS",
+    "name": "Stafi",
+    "cg_id": "stafi"
+  },
+  {
+    "ticker": "FLOW",
+    "name": "Flow",
+    "cg_id": "flow"
+  },
+  {
+    "ticker": "FORT",
+    "name": "Forta",
+    "cg_id": "forta"
+  },
+  {
+    "ticker": "FORTH",
+    "name": "Ampleforth Governance Token",
+    "cg_id": "ampleforth-governance-token"
+  },
+  {
+    "ticker": "FOX",
+    "name": "ShapeShift FOX Token",
+    "cg_id": "shapeshift-fox-token"
+  },
+  {
+    "ticker": "FX",
+    "name": "Function X",
+    "cg_id": "fx-coin"
+  },
+  {
+    "ticker": "GAL",
+    "name": "Project Galaxy",
+    "cg_id": "project-galaxy"
+  },
+  {
+    "ticker": "GALA",
+    "name": "Gala",
+    "cg_id": "gala"
+  },
+  {
+    "ticker": "GFI",
+    "name": "Goldfinch",
+    "cg_id": "goldfinch"
+  },
+  {
+    "ticker": "GHST",
+    "name": "Aavegotchi",
+    "cg_id": "aavegotchi"
+  },
+  {
+    "ticker": "GLM",
+    "name": "Golem Network",
+    "cg_id": "golem"
+  },
+  {
+    "ticker": "GMT",
+    "name": "STEPN",
+    "cg_id": "stepn"
+  },
+  {
+    "ticker": "GNO",
+    "name": "Gnosis",
+    "cg_id": "gnosis"
+  },
+  {
+    "ticker": "GODS",
+    "name": "Gods Unchained",
+    "cg_id": "gods-unchained"
+  },
+  {
+    "ticker": "GRT",
+    "name": "The Graph",
+    "cg_id": "the-graph"
+  },
+  {
+    "ticker": "GST",
+    "name": "Green Satoshi Token",
+    "cg_id": "green-satoshi-token"
+  },
+  {
+    "ticker": "GTC",
+    "name": "Gitcoin",
+    "cg_id": "gitcoin"
+  },
+  {
+    "ticker": "GUSD",
+    "name": "Gemini Dollar",
+    "cg_id": "gemini-dollar"
+  },
+  {
+    "ticker": "GYEN",
+    "name": "GYEN",
+    "cg_id": "gyen"
+  },
+  {
+    "ticker": "HBAR",
+    "name": "Hedera",
+    "cg_id": "hedera-hashgraph"
+  },
+  {
+    "ticker": "HFT",
+    "name": "Hashflow",
+    "cg_id": "hashflow"
+  },
+  {
+    "ticker": "HIGH",
+    "name": "Highstreet",
+    "cg_id": "highstreet"
+  },
+  {
+    "ticker": "HOPR",
+    "name": "Hopr Token",
+    "cg_id": "hopr"
+  },
+  {
+    "ticker": "ICP",
+    "name": "Internet Computer",
+    "cg_id": "internet-computer"
+  },
+  {
+    "ticker": "IDEX",
+    "name": "IDEX",
+    "cg_id": "aurora-dao"
+  },
+  {
+    "ticker": "ILV",
+    "name": "Illuvium",
+    "cg_id": "illuvium"
+  },
+  {
+    "ticker": "IMX",
+    "name": "ImmutableX",
+    "cg_id": "immutable-x"
+  },
+  {
+    "ticker": "INDEX",
+    "name": "Index Cooperative",
+    "cg_id": "index-cooperative"
+  },
+  {
+    "ticker": "INJ",
+    "name": "Injective Protocol",
+    "cg_id": "injective-protocol"
+  },
+  {
+    "ticker": "INV",
+    "name": "Inverse Finance",
+    "cg_id": "inverse-finance"
+  },
+  {
+    "ticker": "IOTX",
+    "name": "IoTeX (ERC-20)",
+    "cg_id": "iotex"
+  },
+  {
+    "ticker": "JASMY",
+    "name": "JasmyCoin",
+    "cg_id": "jasmycoin"
+  },
+  {
+    "ticker": "JUP",
+    "name": "Jupiter",
+    "cg_id": "jupiter"
+  },
+  {
+    "ticker": "KEEP",
+    "name": "Keep Network",
+    "cg_id": "keep-network"
+  },
+  {
+    "ticker": "KNC",
+    "name": "Kyber Network",
+    "cg_id": "kyber-network-crystal"
+  },
+  {
+    "ticker": "KRL",
+    "name": "kryll",
+    "cg_id": "kryll"
+  },
+  {
+    "ticker": "KSM",
+    "name": "Kusama",
+    "cg_id": "kusama"
+  },
+  {
+    "ticker": "LCX",
+    "name": "LCX Token",
+    "cg_id": "lcx"
+  },
+  {
+    "ticker": "LDO",
+    "name": "Lido DAO",
+    "cg_id": "lido-dao"
+  },
+  {
+    "ticker": "LINK",
+    "name": "Chainlink",
+    "cg_id": "chainlink"
+  },
+  {
+    "ticker": "LIT",
+    "name": "Litentry",
+    "cg_id": "litentry"
+  },
+  {
+    "ticker": "LOKA",
+    "name": "League of Kingdoms Arena",
+    "cg_id": "league-of-kingdoms"
+  },
+  {
+    "ticker": "LOOM",
+    "name": "Loom Network",
+    "cg_id": "loom-network-new"
+  },
+  {
+    "ticker": "LPT",
+    "name": "Livepeer",
+    "cg_id": "livepeer"
+  },
+  {
+    "ticker": "LQTY",
+    "name": "Liquity",
+    "cg_id": "liquity"
+  },
+  {
+    "ticker": "LRC",
+    "name": "Loopring",
+    "cg_id": "loopring"
+  },
+  {
+    "ticker": "LTC",
+    "name": "Litecoin",
+    "cg_id": "litecoin"
+  },
+  {
+    "ticker": "MAGIC",
+    "name": "Magic",
+    "cg_id": "magic"
+  },
+  {
+    "ticker": "MANA",
+    "name": "Decentraland",
+    "cg_id": "decentraland"
+  },
+  {
+    "ticker": "MASK",
+    "name": "Mask Network",
+    "cg_id": "mask-network"
+  },
+  {
+    "ticker": "MATH",
+    "name": "MATH",
+    "cg_id": "math"
+  },
+  {
+    "ticker": "MATIC",
+    "name": "Polygon",
+    "cg_id": "matic-network"
+  },
+  {
+    "ticker": "MCO2",
+    "name": "Moss Carbon Credit",
+    "cg_id": "moss-carbon-credit"
+  },
+  {
+    "ticker": "MDT",
+    "name": "Measurable Data Token",
+    "cg_id": "measurable-data-token"
+  },
+  {
+    "ticker": "MEDIA",
+    "name": "Media Network",
+    "cg_id": "media-network"
+  },
+  {
+    "ticker": "METIS",
+    "name": "MetisDAO",
+    "cg_id": "metis-token"
+  },
+  {
+    "ticker": "MINA",
+    "name": "Mina",
+    "cg_id": "mina-protocol"
+  },
+  {
+    "ticker": "MIR",
+    "name": "Mirror Protocol",
+    "cg_id": "mirror-protocol"
+  },
+  {
+    "ticker": "MKR",
+    "name": "Maker",
+    "cg_id": "maker"
+  },
+  {
+    "ticker": "MLN",
+    "name": "Enzyme",
+    "cg_id": "melon"
+  },
+  {
+    "ticker": "MNDE",
+    "name": "Marinade",
+    "cg_id": "marinade"
+  },
+  {
+    "ticker": "MONA",
+    "name": "Monavale",
+    "cg_id": "monavale"
+  },
+  {
+    "ticker": "MPL",
+    "name": "Maple",
+    "cg_id": "maple"
+  },
+  {
+    "ticker": "MSOL",
+    "name": "Marinade staked SOL",
+    "cg_id": "msol"
+  },
+  {
+    "ticker": "MTL",
+    "name": "Metal",
+    "cg_id": "metal"
+  },
+  {
+    "ticker": "MUSE",
+    "name": "Muse Dao",
+    "cg_id": "muse-2"
+  },
+  {
+    "ticker": "MXC",
+    "name": "MXC",
+    "cg_id": "mxc"
+  },
+  {
+    "ticker": "NCT",
+    "name": "Polyswarm",
+    "cg_id": "polyswarm"
+  },
+  {
+    "ticker": "NEAR",
+    "name": "Near Protocol",
+    "cg_id": "near"
+  },
+  {
+    "ticker": "NEST",
+    "name": "Nest Protocol",
+    "cg_id": "nest"
+  },
+  {
+    "ticker": "NKN",
+    "name": "NKN",
+    "cg_id": "nkn"
+  },
+  {
+    "ticker": "NMR",
+    "name": "Numeraire",
+    "cg_id": "numeraire"
+  },
+  {
+    "ticker": "NU",
+    "name": "NuCypher",
+    "cg_id": "nucypher"
+  },
+  {
+    "ticker": "OCEAN",
+    "name": "Ocean Protocol",
+    "cg_id": "ocean-protocol"
+  },
+  {
+    "ticker": "OGN",
+    "name": "Origin Token",
+    "cg_id": "origin-protocol"
+  },
+  {
+    "ticker": "OMG",
+    "name": "OMG Network",
+    "cg_id": "omisego"
+  },
+  {
+    "ticker": "OOKI",
+    "name": "Ooki Protocol",
+    "cg_id": "ooki"
+  },
+  {
+    "ticker": "OP",
+    "name": "Optimism",
+    "cg_id": "optimism"
+  },
+  {
+    "ticker": "ORCA",
+    "name": "Orca",
+    "cg_id": "orca"
+  },
+  {
+    "ticker": "ORN",
+    "name": "Orion Protocol",
+    "cg_id": "orion-protocol"
+  },
+  {
+    "ticker": "OXT",
+    "name": "Orchid",
+    "cg_id": "orchid-protocol"
+  },
+  {
+    "ticker": "PAX",
+    "name": "Paxos Standard",
+    "cg_id": "paxos-standard"
+  },
+  {
+    "ticker": "PERP",
+    "name": "Perpetual Protocol",
+    "cg_id": "perpetual-protocol"
+  },
+  {
+    "ticker": "PLA",
+    "name": "PlayDapp",
+    "cg_id": "playdapp"
+  },
+  {
+    "ticker": "PLU",
+    "name": "Pluton",
+    "cg_id": "pluton"
+  },
+  {
+    "ticker": "PNG",
+    "name": "Pangolin",
+    "cg_id": "pangolin"
+  },
+  {
+    "ticker": "POLS",
+    "name": "Polkastarter",
+    "cg_id": "polkastarter"
+  },
+  {
+    "ticker": "POLY",
+    "name": "Polymath Network",
+    "cg_id": "polymath"
+  },
+  {
+    "ticker": "POND",
+    "name": "Marlin",
+    "cg_id": "marlin"
+  },
+  {
+    "ticker": "POWR",
+    "name": "Power Ledger",
+    "cg_id": "power-ledger"
+  },
+  {
+    "ticker": "PRO",
+    "name": "Propy",
+    "cg_id": "propy"
+  },
+  {
+    "ticker": "PRQ",
+    "name": "PARSIQ",
+    "cg_id": "parsiq"
+  },
+  {
+    "ticker": "PUNDIX",
+    "name": "Pundi X",
+    "cg_id": "pundi-x-2"
+  },
+  {
+    "ticker": "PYR",
+    "name": "Vulcan Forged",
+    "cg_id": "vulcan-forged"
+  },
+  {
+    "ticker": "QI",
+    "name": "Benqi",
+    "cg_id": "benqi"
+  },
+  {
+    "ticker": "QNT",
+    "name": "Quant",
+    "cg_id": "quant-network"
+  },
+  {
+    "ticker": "QSP",
+    "name": "Quantstamp",
+    "cg_id": "quantstamp"
+  },
+  {
+    "ticker": "QUICK",
+    "name": "QuickSwap",
+    "cg_id": "quick"
+  },
+  {
+    "ticker": "RAD",
+    "name": "Radicle",
+    "cg_id": "radicle"
+  },
+  {
+    "ticker": "RAI",
+    "name": "Rai Reflex Index",
+    "cg_id": "rai"
+  },
+  {
+    "ticker": "RARE",
+    "name": "SuperRare",
+    "cg_id": "superrare"
+  },
+  {
+    "ticker": "RARI",
+    "name": "Rarible",
+    "cg_id": "rarible"
+  },
+  {
+    "ticker": "RBN",
+    "name": "Ribbon Finance",
+    "cg_id": "ribbon-finance"
+  },
+  {
+    "ticker": "REN",
+    "name": "Ren",
+    "cg_id": "republic-protocol"
+  },
+  {
+    "ticker": "REP",
+    "name": "Augur",
+    "cg_id": "augur"
+  },
+  {
+    "ticker": "REQ",
+    "name": "Request",
+    "cg_id": "request-network"
+  },
+  {
+    "ticker": "RLC",
+    "name": "iExec RLC",
+    "cg_id": "iexec-rlc"
+  },
+  {
+    "ticker": "RLY",
+    "name": "Rally",
+    "cg_id": "rally-2"
+  },
+  {
+    "ticker": "RNDR",
+    "name": "Render Token",
+    "cg_id": "render-token"
+  },
+  {
+    "ticker": "ROSE",
+    "name": "Oasis Network",
+    "cg_id": "oasis-network"
+  },
+  {
+    "ticker": "RPL",
+    "name": "Rocket Pool",
+    "cg_id": "rocket-pool"
+  },
+  {
+    "ticker": "SAND",
+    "name": "The Sandbox",
+    "cg_id": "the-sandbox"
+  },
+  {
+    "ticker": "SHIB",
+    "name": "Shiba Inu",
+    "cg_id": "shiba-inu"
+  },
+  {
+    "ticker": "SHPING",
+    "name": "Shping",
+    "cg_id": "shping"
+  },
+  {
+    "ticker": "SKL",
+    "name": "SKALE",
+    "cg_id": "skale"
+  },
+  {
+    "ticker": "SNT",
+    "name": "Status",
+    "cg_id": "status"
+  },
+  {
+    "ticker": "SNX",
+    "name": "Synthetix",
+    "cg_id": "havven"
+  },
+  {
+    "ticker": "SOL",
+    "name": "Solana",
+    "cg_id": "solana"
+  },
+  {
+    "ticker": "SPELL",
+    "name": "Spell Token",
+    "cg_id": "spell-token"
+  },
+  {
+    "ticker": "STG",
+    "name": "Stargate Finance",
+    "cg_id": "stargate-finance"
+  },
+  {
+    "ticker": "STORJ",
+    "name": "Storj",
+    "cg_id": "storj"
+  },
+  {
+    "ticker": "STX",
+    "name": "Stacks",
+    "cg_id": "blockstack"
+  },
+  {
+    "ticker": "SUKU",
+    "name": "SUKU",
+    "cg_id": "suku"
+  },
+  {
+    "ticker": "SUPER",
+    "name": "SuperFarm",
+    "cg_id": "superfarm"
+  },
+  {
+    "ticker": "SUSHI",
+    "name": "SushiSwap",
+    "cg_id": "sushi"
+  },
+  {
+    "ticker": "SWFTC",
+    "name": "SwftCoin",
+    "cg_id": "swftcoin"
+  },
+  {
+    "ticker": "SYLO",
+    "name": "Sylo",
+    "cg_id": "sylo"
+  },
+  {
+    "ticker": "SYN",
+    "name": "Synapse",
+    "cg_id": "synapse-2"
+  },
+  {
+    "ticker": "TIME",
+    "name": "Chrono.tech",
+    "cg_id": "chronobank"
+  },
+  {
+    "ticker": "TONE",
+    "name": "TE-FOOD",
+    "cg_id": "te-food"
+  },
+  {
+    "ticker": "TRAC",
+    "name": "OriginTrail",
+    "cg_id": "origintrail"
+  },
+  {
+    "ticker": "TRB",
+    "name": "Tellor",
+    "cg_id": "tellor"
+  },
+  {
+    "ticker": "TRU",
+    "name": "TrueFi",
+    "cg_id": "truefi"
+  },
+  {
+    "ticker": "UMA",
+    "name": "UMA",
+    "cg_id": "uma"
+  },
+  {
+    "ticker": "UNFI",
+    "name": "Unifi Protocol DAO",
+    "cg_id": "unifi-protocol-dao"
+  },
+  {
+    "ticker": "UNI",
+    "name": "Uniswap",
+    "cg_id": "uniswap"
+  },
+  {
+    "ticker": "USDC",
+    "name": "USD Coin",
+    "cg_id": "usd-coin"
+  },
+  {
+    "ticker": "USDT",
+    "name": "Tether",
+    "cg_id": "tether"
+  },
+  {
+    "ticker": "VGX",
+    "name": "Voyager Token",
+    "cg_id": "ethos"
+  },
+  {
+    "ticker": "WAMPL",
+    "name": "Wrapped Ampleforth",
+    "cg_id": "wrapped-ampleforth"
+  },
+  {
+    "ticker": "WAXL",
+    "name": "Wrapped Axelar",
+    "cg_id": "axelar"
+  },
+  {
+    "ticker": "WBTC",
+    "name": "Wrapped Bitcoin",
+    "cg_id": "wrapped-bitcoin"
+  },
+  {
+    "ticker": "WCFG",
+    "name": "Wrapped Centrifuge",
+    "cg_id": "wrapped-centrifuge"
+  },
+  {
+    "ticker": "XCN",
+    "name": "Chain",
+    "cg_id": "chain-2"
+  },
+  {
+    "ticker": "XLM",
+    "name": "Stellar",
+    "cg_id": "stellar"
+  },
+  {
+    "ticker": "XTZ",
+    "name": "Tezos",
+    "cg_id": "tezos"
+  },
+  {
+    "ticker": "XYO",
+    "name": "XYO",
+    "cg_id": "xyo-network"
+  },
+  {
+    "ticker": "YFI",
+    "name": "yearn.finance",
+    "cg_id": "yearn-finance"
+  },
+  {
+    "ticker": "YFII",
+    "name": "DFI.Money",
+    "cg_id": "yfii-finance"
+  },
+  {
+    "ticker": "ZEC",
+    "name": "Zcash",
+    "cg_id": "zcash"
+  },
+  {
+    "ticker": "ZEN",
+    "name": "Horizen",
+    "cg_id": "zencash"
+  },
+  {
+    "ticker": "ZRX",
+    "name": "0x",
+    "cg_id": "0x"
+  },
+  {
+    "ticker": "KAVA",
+    "name": "Kava",
+    "cg_id": "kava"
+  },
+  {
+    "ticker": "T",
+    "name": "Threshold",
+    "cg_id": "threshold-network-token"
+  },
+  {
+    "ticker": "AUDIO",
+    "name": "Audius",
+    "cg_id": "audius"
+  },
+  {
+    "ticker": "AXL",
+    "name": "Axelar",
+    "cg_id": "axelar"
+  },
+  {
+    "ticker": "VOXEL",
+    "name": "Voxies",
+    "cg_id": "voxies"
+  },
+  {
+    "ticker": "BLUR",
+    "name": "Blur",
+    "cg_id": "blur"
+  },
+  {
+    "ticker": "ACS",
+    "name": "Access",
+    "cg_id": "access-protocol"
+  },
+  {
+    "ticker": "EUROC",
+    "name": "Euro Coin",
+    "cg_id": "euro-coin"
+  },
+  {
+    "ticker": "PRIME",
+    "name": "Echelon Prime",
+    "cg_id": "echelon-prime"
+  },
+  {
+    "ticker": "",
+    "name": "",
+    "cg_id": ""
+  }
+]

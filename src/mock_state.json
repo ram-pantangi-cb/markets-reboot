@@ -1,0 +1,84 @@
+{
+  "BTC": {
+    "coingeckoData": {
+      "coingeckoId": "bitcoin",
+      "coingeckoRateUSD": 16023.23
+    },
+    "auctionData": [
+      {
+        "market": "BTC-USD",
+        "base": "BTC",
+        "quote": "USD",
+        "indicativeOpenPriceQuote": 16000,
+        "indicativeOpenPriceUSD": 16000,
+        "midPriceQuote": 0,
+        "bidsWithin3PctFromMid": [],
+        "asksWithin3PctFromMid": [],
+        "canOpen": true
+      },
+      {
+        "market": "BTC-EUR",
+        "base": "BTC",
+        "quote": "EUR",
+        "indicativeOpenPriceQuote": 16000,
+        "indicativeOpenPriceUSD": 16000,
+        "midPriceQuote": 0,
+        "bidsWithin3PctFromMid": [],
+        "asksWithin3PctFromMid": [],
+        "canOpen": true
+      },
+      {
+        "market": "BTC-GBP",
+        "base": "BTC",
+        "quote": "GBP",
+        "indicativeOpenPriceQuote": 16000,
+        "indicativeOpenPriceUSD": 16000,
+        "midPriceQuote": 0,
+        "bidsWithin3PctFromMid": [],
+        "asksWithin3PctFromMid": [],
+        "canOpen": true
+      }
+    ]
+  },
+  "ETH": {
+    "coingeckoData": {
+      "coingeckoId": "ethereum",
+      "coingeckoRateUSD": 1424.29
+    },
+    "auctionData": [
+      {
+        "market": "ETH-USD",
+        "base": "ETH",
+        "quote": "USD",
+        "indicativeOpenPriceQuote": 1420,
+        "indicativeOpenPriceUSD": 1420,
+        "midPriceQuote": 0,
+        "bidsWithin3PctFromMid": [],
+        "asksWithin3PctFromMid": [],
+        "canOpen": true
+      },
+      {
+        "market": "ETH-EUR",
+        "base": "ETH",
+        "quote": "EUR",
+        "indicativeOpenPriceQuote": 1420,
+        "indicativeOpenPriceUSD": 1420,
+        "midPriceQuote": 0,
+        "bidsWithin3PctFromMid": [],
+        "asksWithin3PctFromMid": [],
+        "canOpen": true
+      },
+      {
+        "market": "ETH-GBP",
+        "base": "ETH",
+        "quote": "GBP",
+        "indicativeOpenPriceQuote": 1420,
+        "indicativeOpenPriceUSD": 1420,
+        "midPriceQuote": 0,
+        "bidsWithin3PctFromMid": [],
+        "asksWithin3PctFromMid": [],
+        "canOpen": true
+      }
+    ]
+  }
+}
