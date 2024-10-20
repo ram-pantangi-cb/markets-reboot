@@ -1,3 +1,5 @@
+*.iml
+.idea
 # NodeJS packages
 node_modules
 
