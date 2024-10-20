@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/markets-reboot/static/css/main.3053efd1.css",
+    "main.js": "/markets-reboot/static/js/main.9f82e839.js",
+    "static/js/453.cbd6b6fc.chunk.js": "/markets-reboot/static/js/453.cbd6b6fc.chunk.js",
+    "index.html": "/markets-reboot/index.html",
+    "main.3053efd1.css.map": "/markets-reboot/static/css/main.3053efd1.css.map",
+    "main.9f82e839.js.map": "/markets-reboot/static/js/main.9f82e839.js.map",
+    "453.cbd6b6fc.chunk.js.map": "/markets-reboot/static/js/453.cbd6b6fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3053efd1.css",
+    "static/js/main.9f82e839.js"
+  ]
+}
